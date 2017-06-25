@@ -1,0 +1,13 @@
+ABOUT:
+This application is used generate EBILL reports.
+
+
+Following is the DB details:
+$servername = "10.28.19.250";
+$username = "root";
+$password = "password123";
+$database = "ebill";
+
+
+
+URL      : http://localhost/step/ebill/index.php/ebill/index
